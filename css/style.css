@@ -130,6 +130,7 @@
     justify-content: center;
     flex-direction: column;
     color: white;
+    overflow: hidden;
 }
 .footer a {
     color: white;
