@@ -1,15 +1,18 @@
 .post-img {
     height: 335px;
     overflow: hidden;
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
 }
 
 .post-img img {
-    width: 100%;
+    width: 80%;
 }
 
-.blog-post-content {
-    /* background-color: blueviolet; */
-}
+/* .blog-post-content {
+    background-color: blueviolet;
+} */
 .blog-post-content h1 {
     text-align: center;
 }
